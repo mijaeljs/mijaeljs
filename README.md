@@ -24,3 +24,4 @@ Me apasiona transformar requerimientos complejos en software eficiente, limpio y
 *   **Descripción:** Diseño de la arquitectura de base de datos relacional y personalización del core de una tienda virtual.
 *   **Stack:** PHP, SQL Server 2022.
 *   **Características:** Creación de procedimientos almacenados para la gestión de usuarios/inventario y personalización avanzada de plantillas de diseño.
+*   https://692f98ccdb9c36395c2a621c--majestic-pithivier-f4b332.netlify.app/
