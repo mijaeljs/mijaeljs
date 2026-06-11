@@ -1,4 +1,4 @@
-# ¡Hola! Soy un Desarrollador de Sistemas enfocado en soluciones Full-Stack y Móviles 🚀
+# ¡Hola! Soy un Desarrollador de Sistemas enfocado en soluciones Full-Stack 🚀
 
 Me apasiona transformar requerimientos complejos en software eficiente, limpio y escalable. Mi enfoque principal está en el desarrollo web back-end, la administración de bases de datos relacionales y la compilación de aplicaciones móviles funcionales.
 
@@ -6,10 +6,9 @@ Me apasiona transformar requerimientos complejos en software eficiente, limpio y
 
 ### 💻 Tecnologías y Herramientas
 
-*   **Backend & Lenguajes:** PHP, Python (Kivy)
+*   **Backend & Lenguajes:** PHP, C#
 *   **Bases de Datos:** SQL Server 2022 (Stored Procedures, Administración, Backups)
 *   **Frontend:** Bootstrap 5, HTML5, CSS3, JavaScript
-*   **E-commerce & CMS:** WordPress, WooCommerce (Desarrollo y hooks personalizados)
 *   **Herramientas & Entornos:** Git, GitHub, Buildozer / Google Colab (Compilación APK)
 
 ---
@@ -23,5 +22,5 @@ Me apasiona transformar requerimientos complejos en software eficiente, limpio y
 
 #### 2. Infraestructura E-commerce y Base de Datos (Tienda Virtual) 🛒
 *   **Descripción:** Diseño de la arquitectura de base de datos relacional y personalización del core de una tienda virtual.
-*   **Stack:** PHP, WooCommerce Hooks, SQL Server 2022.
+*   **Stack:** PHP, SQL Server 2022.
 *   **Características:** Creación de procedimientos almacenados para la gestión de usuarios/inventario y personalización avanzada de plantillas de diseño.
